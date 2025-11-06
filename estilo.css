@@ -36,3 +36,35 @@ a:hover {
     transform: scale(1.2);
     color: rgb(65, 65, 65);
 }
+div {
+    padding: 2%;
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+div>div {
+    transition: transform 0.5s ease, background-color 1s ease;
+    background-color: antiquewhite;
+    margin: 2%;
+    width: 40%;
+    border-radius: 20px;
+    flex-direction: column;
+}
+
+
+
+}
+h3 {
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
+p {
+    margin-left: 5%;
+}
+
+div>h2 {
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
