@@ -70,3 +70,12 @@ div>h2 {
     margin-bottom: 3%;
     margin-top: 3%;
 }
+footer {
+    clear: both;
+    background-color: rgb(135, 211, 255);
+    width: 100%;
+    padding: 1%;
+    text-align: center;
+    transition: background-color 0.4s ease;
+     transition: transform 0.3s ease;
+}
