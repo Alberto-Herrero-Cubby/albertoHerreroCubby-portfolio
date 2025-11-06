@@ -1,0 +1,26 @@
+* {
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    padding-top: 1%;
+    background-color: rgb(135, 211, 255);
+    text-align: center;
+}
+
+header>h2 {
+    padding: 1%;
+}
+
+nav {
+    font-size: larger;
+    background-color: rgb(147, 231, 252);
+    padding: 0.4%;
+    text-align: left;
+}
+
+nav>a {
+    font-size: larger;
+}
